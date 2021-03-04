@@ -58,7 +58,7 @@ Contacts
            <MenuIcon />
          </IconButton>
          <Typography variant="h6" noWrap>
-           Журнал дежурного по ГИВЦ ВС
+           Журнал 
          </Typography>
        </Toolbar>
      </AppBar>
